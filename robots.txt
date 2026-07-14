@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-r0zbuc.lightover.co/sitemap.xml
